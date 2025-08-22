@@ -1,11 +1,11 @@
 ![Status](https://img.shields.io/badge/Status-Building%20awesome%20things-success?style=flat-square&logo=github)
 
-# Hi there, I'm Abeer 👋  
+# Hi there, I'm Abeer   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F39C12&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me  
+##  About Me  
  Senior **Computer Science student** @ Mansoura University  
  Passionate about **Cloud & DevOps** (Docker, Kubernetes, Terraform, AWS)  
  Currently building **automation workflows & scalable cloud apps**  
