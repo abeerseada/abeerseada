@@ -1,7 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-Building%20awesome%20things-success?style=flat-square&logo=github)
 
 ### Hi there , my name is Abeer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF5733&lines=DevOps+Engineer;Cloud+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF5733&lines=DevOps+Engineer;Cloud+Enthusiast;Always+Learning)](https://git.io/typing-svg)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
