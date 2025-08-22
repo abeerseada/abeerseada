@@ -10,7 +10,6 @@
  Passionate about **Cloud & DevOps** (Docker, Kubernetes, Terraform, AWS)  
  Currently building **automation workflows & scalable cloud apps**  
  Always curious about **CI/CD, SRE, and Infrastructure as Code**  
- Fun fact: I love turning complex problems into simple automated pipelines   
 
 ---
 
