@@ -20,7 +20,5 @@ but to understand how and why they work.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abeerseada&show_icons=true)  
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abeerseada)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
