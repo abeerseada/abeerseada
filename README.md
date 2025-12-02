@@ -32,19 +32,6 @@
 
 ---
 
-##  GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abeerseada&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeerseada&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeerseada&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## ✨ Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
