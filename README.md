@@ -6,11 +6,11 @@
 ---
 
 ##  About Me  
- Senior **Computer Science student** @ Mansoura University  
+**Computer Science Graduate** @ Mansoura University  
  Passionate about **Cloud & DevOps** (Docker, Kubernetes, Terraform, AWS)  
  Currently building **automation workflows & scalable cloud apps**  
  Always curious about **CI/CD, SRE, and Infrastructure as Code**  
-
+ Certified Kubernetes Administrator
 ---
 
 ##  Tech Stack
